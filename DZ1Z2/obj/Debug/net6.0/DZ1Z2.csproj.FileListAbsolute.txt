@@ -1,0 +1,15 @@
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\bin\Debug\net6.0\DZ1Z2.exe
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\bin\Debug\net6.0\DZ1Z2.deps.json
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\bin\Debug\net6.0\DZ1Z2.runtimeconfig.json
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\bin\Debug\net6.0\DZ1Z2.dll
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\bin\Debug\net6.0\DZ1Z2.pdb
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.csproj.AssemblyReference.cache
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.AssemblyInfoInputs.cache
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.AssemblyInfo.cs
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.csproj.CoreCompileInputs.cache
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.dll
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\refint\DZ1Z2.dll
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.pdb
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\DZ1Z2.genruntimeconfig.cache
+D:\Документы\Обучение\Тестировщик\C#\Семинары\SeminarPR1\DZ1Z2\obj\Debug\net6.0\ref\DZ1Z2.dll
