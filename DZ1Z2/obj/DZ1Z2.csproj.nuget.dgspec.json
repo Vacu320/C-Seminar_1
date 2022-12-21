@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\DZ1Z2\\DZ1Z2.csproj": {}
+    "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\Seminar_1\\DZ1Z2\\DZ1Z2.csproj": {}
   },
   "projects": {
-    "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\DZ1Z2\\DZ1Z2.csproj": {
+    "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\Seminar_1\\DZ1Z2\\DZ1Z2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\DZ1Z2\\DZ1Z2.csproj",
+        "projectUniqueName": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\Seminar_1\\DZ1Z2\\DZ1Z2.csproj",
         "projectName": "DZ1Z2",
-        "projectPath": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\DZ1Z2\\DZ1Z2.csproj",
+        "projectPath": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\Seminar_1\\DZ1Z2\\DZ1Z2.csproj",
         "packagesPath": "C:\\Users\\Пользователь\\.nuget\\packages\\",
-        "outputPath": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\DZ1Z2\\obj\\",
+        "outputPath": "D:\\Документы\\Обучение\\Тестировщик\\C#\\Семинары\\SeminarPR1\\Seminar_1\\DZ1Z2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config"
